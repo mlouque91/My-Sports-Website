@@ -2,11 +2,12 @@
 
 body {
  font-family: "Calibri";
+ background-color: "light-blue";
 }
 
 
 
-h2, p2 {
+h2, p {
 	text-align: center;
 
 }
